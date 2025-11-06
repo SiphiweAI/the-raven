@@ -15,5 +15,5 @@ class SCM_DB_Inspector {
     public static function describe_table($table_name) {
         global $wpdb;
         return $wpdb->get_results("DESCRIBE {$wpdb->prefix}{$table_name}", ARRAY_A);
-    }
+    }
 }
