@@ -22,7 +22,7 @@ add_action('admin_menu', 'scm_saas_load_admin_menu');
 
 
 function scm_saas_load_admin_menu() {
-    require_once plugin_dir_path(__FILE__) . 'admin/menu.php';
+    require_once plugin_dir_path(__FILE__) . 'admin/menu.php';
 }
 
 

@@ -1,16 +1,18 @@
+
 <div class="wrap">
     <h1>SCM SaaS Dashboard</h1>
     <p>Welcome to your Supply Chain Management Suite.</p>
 
-    <div class="scm-section">
-        <h2>Modules</h2>
-        <ul>
-            <li>📈 Demand Forecasting</li>
-            <li>📦 Inventory Optimization</li>
-            <li>🤝 Supplier Performance</li>
-            <li>📊 KPI Analytics</li>
-        </ul>
-    </div>
+
+<div class="scm-section">
+    <h2>Modules</h2>
+    <ul>
+        <li>📈 Demand Forecasting</li>
+        <li>📦 Inventory Optimization</li>
+        <li>🤝 Supplier Performance</li>
+        <li>📊 KPI Analytics</li>
+    </ul>
+  </div>
 </div>
 <style>
     .scm-section {
@@ -23,8 +25,8 @@
         margin-top: 0;
     }
     .scm-section ul {
-        list-style-type: none;
-        padding-left: 0;
+         list-style-type: none;
+         padding-left: 0;
     }
     .scm-section li {
         margin-bottom: 10px;
