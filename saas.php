@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: The Raven SaaS Plugin
- * Plugin URI: https://yoursite.com/scm-plugin
+ * Plugin URI: https://the-raven.ct.ws/the-raven-portal
  * Description: Supply Chain Management Suite with AI Forecasting, Inventory Optimization, and KPI Analytics
  * Version: 0.0.1
  * Author: Siphiwe Themba
- * Author URI: https://yoursite.com
+ * Author URI: https://the-raven.ct.ws
  * License: GPL v2 or later
  * Text Domain: scm-plugin
  * Domain Path: /languages

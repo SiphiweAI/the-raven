@@ -1,0 +1,50 @@
+.scm-saas-portal {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #fff;
+}
+
+.scm-title {
+    text-align: center;
+    font-size: 2em;
+    color: #222;
+}
+
+.scm-subtitle {
+    text-align: center;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.scm-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.scm-tab {
+    padding: 10px 20px;
+    background: #eee;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.scm-tab.active,
+.scm-tab:hover {
+    background: #0073aa;
+    color: #fff;
+}
+
+.scm-tab-content {
+    display: none;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.scm-tab-content.active {
+    display: block;
+}
